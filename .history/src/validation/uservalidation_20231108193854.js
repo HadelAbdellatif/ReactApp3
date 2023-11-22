@@ -1,0 +1,1 @@
+wxport const validationUserData = ()
